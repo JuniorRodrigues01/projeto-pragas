@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 14
+names: ['aphid', 'armyworm', 'caterpillar', 'cucumber_beetle', 'cutworm', 'flea_beetle', 'looper', 'pollen_beetle', 'slug', 'squash_vine_borer', 'stink_bug', 'thrip', 'whiteflies', 'wireworm']
+
+roboflow:
+  workspace: school-class-wndjm
+  project: plant-pest
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/school-class-wndjm/plant-pest/dataset/7
