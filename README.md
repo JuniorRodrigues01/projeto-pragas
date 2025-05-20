@@ -60,12 +60,6 @@ Utilizamos o [Plant Pest Dataset](https://universe.roboflow.com/school-class-wnd
 
 ---
 
-## 📸 Exemplo de resultado
-
-![deteccao](exemplo_resultado.jpg) *(adicione uma imagem gerada pelo seu modelo aqui)*
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.  
